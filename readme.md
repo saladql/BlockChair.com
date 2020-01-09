@@ -84,4 +84,4 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{bitcoin bitcoinCash bitcoinS
 
 ### More Docs coming soon!
 
-![Data Graph](https://github.com/saladql/BlockChair.com/blob/master/2020-01-09.1578611855.png)
+![Data Graph](https://github.com/saladql/BlockChair.com/blob/master/2020-01-09.1578612720.png)
